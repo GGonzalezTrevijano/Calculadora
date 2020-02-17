@@ -1,0 +1,22 @@
+D:\Proyectos Programación\Proyecto Calculadora\Proyecto Calculadora\bin\Debug\netcoreapp3.1\Proyecto Calculadora.exe
+D:\Proyectos Programación\Proyecto Calculadora\Proyecto Calculadora\bin\Debug\netcoreapp3.1\Proyecto Calculadora.deps.json
+D:\Proyectos Programación\Proyecto Calculadora\Proyecto Calculadora\bin\Debug\netcoreapp3.1\Proyecto Calculadora.runtimeconfig.json
+D:\Proyectos Programación\Proyecto Calculadora\Proyecto Calculadora\bin\Debug\netcoreapp3.1\Proyecto Calculadora.runtimeconfig.dev.json
+D:\Proyectos Programación\Proyecto Calculadora\Proyecto Calculadora\bin\Debug\netcoreapp3.1\Proyecto Calculadora.dll
+D:\Proyectos Programación\Proyecto Calculadora\Proyecto Calculadora\bin\Debug\netcoreapp3.1\Proyecto Calculadora.pdb
+D:\Proyectos Programación\Proyecto Calculadora\Proyecto Calculadora\obj\Debug\netcoreapp3.1\Proyecto Calculadora.csprojAssemblyReference.cache
+D:\Proyectos Programación\Proyecto Calculadora\Proyecto Calculadora\obj\Debug\netcoreapp3.1\Proyecto Calculadora.AssemblyInfoInputs.cache
+D:\Proyectos Programación\Proyecto Calculadora\Proyecto Calculadora\obj\Debug\netcoreapp3.1\Proyecto Calculadora.AssemblyInfo.cs
+D:\Proyectos Programación\Proyecto Calculadora\Proyecto Calculadora\obj\Debug\netcoreapp3.1\Proyecto Calculadora.dll
+D:\Proyectos Programación\Proyecto Calculadora\Proyecto Calculadora\obj\Debug\netcoreapp3.1\Proyecto Calculadora.pdb
+C:\Users\ggonzalez\source\repos\Calculadora\Proyecto Calculadora\bin\Debug\netcoreapp3.1\Proyecto Calculadora.exe
+C:\Users\ggonzalez\source\repos\Calculadora\Proyecto Calculadora\bin\Debug\netcoreapp3.1\Proyecto Calculadora.deps.json
+C:\Users\ggonzalez\source\repos\Calculadora\Proyecto Calculadora\bin\Debug\netcoreapp3.1\Proyecto Calculadora.runtimeconfig.json
+C:\Users\ggonzalez\source\repos\Calculadora\Proyecto Calculadora\bin\Debug\netcoreapp3.1\Proyecto Calculadora.runtimeconfig.dev.json
+C:\Users\ggonzalez\source\repos\Calculadora\Proyecto Calculadora\bin\Debug\netcoreapp3.1\Proyecto Calculadora.dll
+C:\Users\ggonzalez\source\repos\Calculadora\Proyecto Calculadora\bin\Debug\netcoreapp3.1\Proyecto Calculadora.pdb
+C:\Users\ggonzalez\source\repos\Calculadora\Proyecto Calculadora\obj\Debug\netcoreapp3.1\Proyecto Calculadora.csprojAssemblyReference.cache
+C:\Users\ggonzalez\source\repos\Calculadora\Proyecto Calculadora\obj\Debug\netcoreapp3.1\Proyecto Calculadora.AssemblyInfoInputs.cache
+C:\Users\ggonzalez\source\repos\Calculadora\Proyecto Calculadora\obj\Debug\netcoreapp3.1\Proyecto Calculadora.AssemblyInfo.cs
+C:\Users\ggonzalez\source\repos\Calculadora\Proyecto Calculadora\obj\Debug\netcoreapp3.1\Proyecto Calculadora.dll
+C:\Users\ggonzalez\source\repos\Calculadora\Proyecto Calculadora\obj\Debug\netcoreapp3.1\Proyecto Calculadora.pdb
